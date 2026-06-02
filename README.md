@@ -77,7 +77,7 @@ This dashboard helps:
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+ ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/paritathakur04-cmd/Professional-Survey-Breakdown-Dashboard/blob/main/Survey%20Dashboard%20Pbi.jpg))
 
 ---
 
