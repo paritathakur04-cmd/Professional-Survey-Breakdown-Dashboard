@@ -77,7 +77,7 @@ This dashboard helps:
 
 ## Dashboard Preview
 
- ![Dashboard Preview]([(https://github.com/paritathakur04-cmd/Professional-Survey-Breakdown-Dashboard/blob/main/Survey%20Dashboard%20Pbi.jpg)])
+ ![Dashboard Preview](https://github.com/paritathakur04-cmd/Professional-Survey-Breakdown-Dashboard/blob/main/Survey%20Dashboard%20Pbi.jpg)
 
 ---
 
